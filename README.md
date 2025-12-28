@@ -37,7 +37,7 @@ A mobile-responsive clone of the Facebook user interface built with Flutter. Thi
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/your-username/facebook-clone.git
+    git clone https://github.com/Bez-coder/facebook-clone.git
     ```
 2.  Navigate to the project directory:
     ```bash
